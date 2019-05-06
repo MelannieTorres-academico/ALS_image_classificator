@@ -18,3 +18,7 @@ To test send the model name without the extension: python run_tests.py model5
 
 ## About the process
 If you want to know more about how this project was done, you can find the report here.
+
+
+## Models
+The models were too heavy to be uploaded here, so you can find them [here](https://drive.google.com/drive/folders/1nDEKKnlEsy_1SEfa9ow-ZBvTh0buk0Df?usp=sharing). If you train the model a new model will be generated. 
