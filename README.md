@@ -17,7 +17,7 @@ To test send the model name without the extension: python run_tests.py model5
 
 
 ## About the process
-If you want to know more about how this project was done, you can find the report here.
+If you want to know more about how this project was done, you can find the report [here](https://docs.google.com/document/d/15zApA0yXexQvZGrzjFvNIJi6NfDqJ9VHA6n2iVjL-KU/edit?usp=sharing).
 
 
 ## Models
